@@ -1,3 +1,5 @@
+package sample.junit;
+
 import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.MatcherAssert.*;
 
